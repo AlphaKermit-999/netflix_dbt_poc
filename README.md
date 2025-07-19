@@ -12,4 +12,4 @@ Try running the following commands:
 
 Lineage Graph Diagram of the data - 
 
-![Lineage Graph](./docs/lineage_graph.png)
+![Lineage Graph](./docs/Lineage_Graph.png)
