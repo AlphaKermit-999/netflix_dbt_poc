@@ -2,7 +2,7 @@ version: 2
 
 
 sources:
-  - name: netflix
+  - name: netflix_dbt_poc
     schema: raw
     tables:
       - name: r_movies
