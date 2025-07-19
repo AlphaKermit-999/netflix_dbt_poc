@@ -8,6 +8,3 @@ Data Set downloaded from - https://grouplens.org/datasets/movielens/20m/
 Try running the following commands:
 - dbt run
 - dbt test
-
-
-
